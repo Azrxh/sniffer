@@ -1,0 +1,8 @@
+just run the command make build in your terminal and it will compile the program for you.
+
+this was made in like 5 minutes but dont worry i plan on adding quite a bit soon!
+
+REQUIRED TOOLS:
+	go programming language
+
+	and a tool called upx
